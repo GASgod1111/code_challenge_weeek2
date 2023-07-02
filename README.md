@@ -10,7 +10,7 @@ code_challenge_weeek
 <p>This is a website that shows the list of the animals.It contains all the background information about animals' voting  details .</p> 
 
   # Installation 
-1. Clone the repository: `https://github.com/GASgod1111/Code_challenge_week2.git`
+1. Clone the repository: `https://github.com/GASgod1111/Code_challenge_weeek2.git`
 2. Navigate to the project directory: `cd GAS-PROJECTS`
 3. Install dependencies: `npm install`
 
